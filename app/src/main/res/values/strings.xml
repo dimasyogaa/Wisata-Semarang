@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Wisata Semarang</string>
+    <string name="todo">todo</string>
+    <string name="title_history">SEJARAH</string>
+    <string name="title_nature">ALAM</string>
+    <string name="title_education">PENDIDIKAN</string>
+    <string name="title_web_dinas">WEB INFO WISATA SEMARANG</string>
+    <string name="title_desc">DESKRIPSI SINGKAT</string>
+    <string name="title_name">name</string>
+    <string name="title_web">WEB</string>
+    <string name="title_location">LIHAT LOKASI</string>
+
+    <string-array name="data_history_nature_id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <integer-array name="data_history_picture">
+        <item>@drawable/pic_kotalama</item>
+        <item>@drawable/pic_lawangsewu</item>
+        <item>@drawable/pic_simpanglima</item>
+        <item>@drawable/pic_tugumuda</item>
+    </integer-array>
+
+    <string-array name="data_history_name">
+        <item>Kota Lama</item>
+        <item>Lawang Sewu</item>
+        <item>Simpang Lima</item>
+        <item>Tugu Muda</item>
+    </string-array>
+
+    <string-array name="data_history_description">
+        <item>Kawasan Kota Lama Semarang disebut juga Oudestadt. Luas kawasan ini sekitar 31 hektare. Dilihat dari kondisi geografi, tampak bahwa kawasan ini terpisah dengan daerah sekitarnya, sehingga tampak seperti kota tersendiri dengan julukan "Little Netherland". Kawasan Kota Lama Semarang ini merupakan saksi bisu sejarah Indonesia masa kolonial Belanda lebih dari 2 abad, dan lokasinya berdampingan dengan kawasan ekonomi. </item>
+        <item>Lawang Sewu adalah landmark di Semarang, Jawa Tengah, Indonesia, yang dibangun sebagai kantor pusat Perusahaan Kereta Api Hindia Belanda. Bangunan era kolonial terkenal sebagai peninggalan situs bersejarah di Indonesia, meskipun pemerintah kota Semarang telah berusaha mengubah citra itu.</item>
+        <item>Simpang Lima Semarang adalah sebuah lapangan yang berada di pusat kota Semarang. Lapangan ini disebut juga Lapangan Pancasila. Simpang lima merupakan pertemuan dari lima jalan yang menyatu, yaitu Jalan Pahlawan, Jalan Pandanaran, Jalan Ahmad Yani, Jalan Gajah Mada dan Jalan Ahmad Dahlan.</item>
+        <item>Tugu Muda adalah sebuah monumen yang dibuat untuk mengenang jasa-jasa para pahlawan yang telah gugur dalam Pertempuran Lima Hari di Semarang. Monumen ini terletak di Nasional 20 di Rute/Kode daerah Jalan Nasional Rute 20 yang mengarah ke Solo. Tugu Muda ini menggambarkan tentang semangat berjuang &amp; patriotisme warga semarang, khususnya para pemuda yang gigih, rela berkorban dengan semangat yang tinggi mempertahankan Kemerdekaan Indonesia.</item>
+    </string-array>
+
+    <string-array name="data_history_maps">
+        <item>https://www.google.com/maps/place/Kota+Lama+Semarang/@-6.9681399,110.4256724,17z/data=!3m1!4b1!4m5!3m4!1s0x2e70f4a9c5b90845:0xcdad87f56d2be6e!8m2!3d-6.9681399!4d110.4278611</item>
+        <item>https://www.google.com/maps/place/Lawang+Sewu/@-6.9839865,110.4086881,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b4f19af0393:0x11304de4230ded0d!8m2!3d-6.9839099!4d110.4104342</item>
+        <item>https://www.google.com/maps/place/Simpang+Lima+Semarang/@-6.9903251,110.420775,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708d5a2acce0eb:0x8c382422bd4fadc9!8m2!3d-6.9903251!4d110.4229637</item>
+        <item>https://www.google.com/maps/place/Tugu+Muda+Semarang/@-6.9843213,110.4071021,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708bbd7f1a5095:0xf65ef341c1525c5a!8m2!3d-6.9843564!4d110.4092608</item>
+    </string-array>
+
+    <string-array name="data_history_web">
+        <item>https://id.wikipedia.org/wiki/Kota_Lama_Semarang</item>
+        <item>https://id.wikipedia.org/wiki/Lawang_Sewu</item>
+        <item>https://id.wikipedia.org/wiki/Simpang_Lima_Semarang</item>
+        <item>https://id.wikipedia.org/wiki/Tugu_Muda</item>
+    </string-array>
+
+    <integer-array name="data_nature_picture">
+        <item>@drawable/pic_pantaimarina</item>
+        <item>@drawable/pic_pantaimaron</item>
+        <item>@drawable/pic_pantaitirang</item>
+        <item>@drawable/pic_tamanwilis</item>
+    </integer-array>
+
+    <string-array name="data_nature_name">
+        <item>Pantai Marina</item>
+        <item>Pantai Maron</item>
+        <item>Pantai Tirang</item>
+        <item>Taman Wilis</item>
+    </string-array>
+
+    <string-array name="data_nature_description">
+        <item>Pantai Marina adalah salah satu objek wisata pantai yang berada di kota Semarang, Jawa Tengah. Pantai ini menyimpan pemandangan eksotis khas kota Semarang. Dahulu, tempat ini merupakan hutan bakau dan tambak, tapi pemerintah setempat mengubahnya menjadi tempat rekreasi dengan cara reklamasi daratan. Hasil reklamasi dari hutan bakau ini, sekarang berupa perumahan, pertokoan, dan perkantoran, di sebelah selatan pantai.</item>
+        <item>Pantai Maron yang terletak di sebelah barat Semarang, tepatnya di sekitar muara Sungai Silandak ini, bisa ditempuh dari dua tempat, yaitu dari Bandara Ahmad Yani atau dari Perumahan Graha Padma, Krapyak. Kira-kira berjarak 3 km dari jalan raya kita sudah bisa sampai di lokasi. Jika menggunakan kendaraan bisa ditempuh sekitar 10 menit. Namun jika ingin jalan kaki, dari ujung perumahan Graha Padma saja bisa memakan waktu 30 menit.</item>
+        <item>Pantai Tirang merupakan salah satu pantai di Semarang, tepatnya di Desa Tambakrejo, Tugurejo, Tugu, Kota Semarang. Pantai Tirang cukup dekat dengan Pantai Maron dan hanya dibatasi oleh muara Sungai Silandak. Pantai Tirang letaknya cukup dekat dengan Bandara Ahmad Yani. Lokasinya yang dekat pusat keramaian menjadikan pantai ini sebagai tempat wisata yang cukup strategis. Pantai Tirang sendiri memiliki sejarah, dimana dahulunya terdapat sebuah pulau kecil yang disebut Pulau Tirang. Pulau tersebut menjadi ikon Kota Semarang karena keindahan serta fauna dan flora yang ada didalamnya.</item>
+        <item>Taman Wilis merupakan sebuah taman yang berada di atas bukit dan menyajikan keindahan pemandangan Kota Semarang dari ketinggian.Taman Wilis adalah fasilitas ruang publik yang dibangun oleh Pemerintah Kota Semarang, Jawa Tengah. Taman Wilis dibuka pertama kali pada 29 Desember 2017 dengan tujuan menyajikan sebuah taman dengan pemandangan kota yang indah. Pengunjung tidak dikenakan biaya apa pun untuk dapat memasuki area taman ini. Lokasinya yang berada di bukit dan menjadi salah satu taman favorit di Kota Semarang.</item>
+    </string-array>
+
+    <string-array name="data_nature_maps">
+        <item>https://www.google.com/maps/place/Pantai+Marina/@-6.1437967,105.8473563,15z/data=!4m5!3m4!1s0x2e4180c0f2619feb:0x47592da78f6ec63e!8m2!3d-6.1438889!4d105.8561111</item>
+        <item>https://www.google.com/maps/place/Pantai+Maron+West+Semarang/@-6.9590858,110.3607989,16.28z/data=!4m9!1m2!2m1!1spantai+maron!3m5!1s0x2e70f5145ee5a135:0xd95568de265d5aa8!8m2!3d-6.9544628!4d110.3612287!15sCgxwYW50YWkgbWFyb26SAQViZWFjaA</item>
+        <item>https://www.google.com/maps/place/Pantai+Tirang/@-6.9581365,110.35484,16.34z/data=!4m5!3m4!1s0x2e70f51438f917eb:0x700025efbbefcd30!8m2!3d-6.9545274!4d110.3589709</item>
+        <item>https://www.google.com/maps/place/Taman+Wilis/@-7.0047949,110.4191245,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b6343cd3a55:0x25cfec456bdfb553!8m2!3d-7.0047949!4d110.4213132</item>
+    </string-array>
+
+    <string-array name="data_nature_web">
+        <item>https://id.wikipedia.org/wiki/Pantai_Marina</item>
+        <item>https://id.wikipedia.org/wiki/Pantai_Maron</item>
+        <item>https://www.tribunnewswiki.com/2021/06/30/pantai-tirang</item>
+        <item>https://www.tribunnewswiki.com/2021/08/23/taman-wilis</item>
+    </string-array>
+
+    <string-array name="data_education_id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <integer-array name="data_education_picture">
+        <item>@drawable/pic_kampungbatik</item>
+        <item>@drawable/pic_ranggawarsito</item>
+        <item>@drawable/pic_semarangzoo</item>
+    </integer-array>
+
+    <string-array name="data_education_name">
+        <item>Kampung Batik Gedong</item>
+        <item>Museum Ranggawarsita</item>
+        <item>Semarang Zoo</item>
+    </string-array>
+
+    <string-array name="data_education_description">
+        <item>Kampung Batik ini berlokasi di Kelurahan Rejomulyo, Kecamatan Semarang Timur yang letaknya tidak jauh dari Kawasan Kota Lama atau tepatnya di seberang timur Museum Kota Lama. Kampung Batik Semarang ini konon merupakan sentra kerajinan batik di era kolonial, tempat para saudagar batik yang hendak memasarkan batik mereka ke luar pulau Jawa.</item>
+        <item>Museum Jawa Tengah Ranggawarsita adalah museum yang menyimpan dan memamerkan berbagai warisan budaya dan benda budaya Jawa Tengah yang berlokasi di Kota Semarang, Indonesia. Museum ini diresmikan tanggal 5 Juli 1989 dan memiliki koleksi 59784 koleksi</item>
+        <item>Semarang Zoo atau terkenal sebagai Kebun Binatang Mangkang, telah menjadi destinasi favorit wisatawan. Wisatawan asal Semarang dan sekitarnya kerap kali memadati tempat ini pada saat hari libur. Kebun binatang yang terletak di perbatasan Semarang dan Kendal ini memiliki berbagai koleksi satwa. Dimana, wisatawan dapat berinteraksi langsung dengan beberapa satwa, seperti burung, ular, gajah, dan lainnya.</item>
+    </string-array>
+
+    <string-array name="data_education_maps">
+        <item>https://www.google.com/maps/place/Kampung+Batik+Gedong+Semarang/@-6.9688821,110.4143597,14z/data=!4m9!1m2!2m1!1skampung+batik!3m5!1s0x2e70f356bb103405:0x5be6eccb461174cf!8m2!3d-6.9688821!4d110.4318692!15sCg1rYW1wdW5nIGJhdGlrWg8iDWthbXB1bmcgYmF0aWuSARJ0b3VyaXN0X2F0dHJhY3Rpb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlZhRXhwYW5SUlJSQUI</item>
+        <item>https://www.google.com/maps/place/Museum+Ranggawarsita/@-6.9860311,110.3817072,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b28c822d40d:0x67f776cdae733260!8m2!3d-6.9860311!4d110.3838959</item>
+        <item>https://www.google.com/maps/place/Semarang+Zoo/@-6.96972,110.2845999,17z/data=!3m1!4b1!4m5!3m4!1s0x2e705fcd9c89fc41:0x972aec622a49f8f1!8m2!3d-6.96972!4d110.2867886</item>
+    </string-array>
+
+    <string-array name="data_education_web">
+        <item>https://dosenwisata.com/kampung-batik-semarang/</item>
+        <item>https://id.wikipedia.org/wiki/Museum_Ranggawarsita</item>
+        <item>https://www.javatravel.net/semarang-zoo</item>
+    </string-array>
+
+
+</resources>
